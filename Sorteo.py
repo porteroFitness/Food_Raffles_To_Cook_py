@@ -38,7 +38,7 @@ for nombre in lista_nombres_random:
  	# TERMINAR SESIÓN
 	s.quit()
 
-	# 
+	# TRAZA
 	print(email)
 	print(comida)
 	print(nombre)
